@@ -1,5 +1,5 @@
 ## Web Scraping | Financial Analysis | NLP Topic Modeling | Sentiment & Readability Analysis
-Scraping historical financial accounting data from Compustat to build accurate earnings prediction models.
+Developing research-based earnings forecasting models using data scraped from Compustat, IBES & WRDS.
 
 ## The end goal is to identify 3 high growth potential stocks, on the basis of the least biased and most accurate earnings prediction model.
 The following features were extracted/engineered:
